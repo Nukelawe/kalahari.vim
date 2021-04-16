@@ -168,7 +168,7 @@ endif
 "|=============================================================================
 
 " common UI groups, see `:help highlight-groups` {{{
-call <sid>HL('ColorColumn',     -1,              s:P.bg_2,        'none')
+call <sid>HL('ColorColumn',     -1,              s:P.bg_3,        'none')
 call <sid>HL('Conceal',         -1,              -1,              '')
 call <sid>HL('Cursor',          s:P.Cursor,      s:P.Cursor_bg,   '')
 call <sid>HL('CursorIM',        -1,              -1,              '')
